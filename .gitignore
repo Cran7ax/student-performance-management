@@ -1,0 +1,8 @@
+# Compiled executables
+student_manager
+*.out
+*.o
+
+# Build directories
+build/
+cmake-build-*/
